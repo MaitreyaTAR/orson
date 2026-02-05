@@ -10,7 +10,7 @@ body {
 	background-color: #d12d28;
 }
 
-.twitter {
+.GPT {
 	height: 250px;
 	width: 250px;
 	margin-top: 20px;
@@ -18,12 +18,12 @@ body {
 	background-color: #1DA1F2;
 }
 
-.GPT {
+.twitch {
 	height: 250px;
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 10px;
-	background-color: #FFFF00;
+	background-color: #6441A4;
 }
 
 .reddit {
@@ -75,4 +75,23 @@ body {
 	color: #949494;
 	font-family: Courier New;
 	text-decoration: none;
+}
+
+.Maitreya {
+	text-align: right;
+	position: fixed;
+	bottom: 0;
+	right: 10px;
+	font-size: 18px;
+	color: #949494;
+	font-family: Courier New;
+	text-decoration: none;
+}
+
+.changelogs {
+	color: white;
+	font-size: 18px;
+	font-family: Courier New;
+	margin-left: 10px;
+	list-style: square;
 }
